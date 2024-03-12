@@ -56,11 +56,11 @@ import {
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Next js Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Mongodb",
       icon: creator,
     },
   ];
@@ -243,7 +243,7 @@ import {
         },
       ],
       image: cara,
-      source_code_link: "https://github.com/Mady1945/profile",
+      source_code_link: "https://github.com/Mady1945/e-commerce",
     },
     {
       name: "Trip Guide",
